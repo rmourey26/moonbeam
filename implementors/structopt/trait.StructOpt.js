@@ -1,3 +1,0 @@
-(function() {var implementors = {};
-implementors["moonbeam"] = [{"text":"impl StructOpt for Subcommand","synthetic":false,"types":[]},{"text":"impl StructOpt for BuildSpecCommand","synthetic":false,"types":[]},{"text":"impl StructOpt for ExportGenesisStateCommand","synthetic":false,"types":[]},{"text":"impl StructOpt for ExportGenesisWasmCommand","synthetic":false,"types":[]},{"text":"impl StructOpt for RunCmd","synthetic":false,"types":[]},{"text":"impl StructOpt for Cli","synthetic":false,"types":[]}];
-if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
